@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 
 bool isPerfect(int num)
@@ -51,3 +52,4 @@ int main()
 
 	return 0;
 }
+*/
