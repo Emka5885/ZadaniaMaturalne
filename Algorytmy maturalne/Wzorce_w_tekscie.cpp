@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 
 int find(std::string& text, std::string& pattern)
@@ -28,3 +29,4 @@ int main()
 
 	return 0;
 }
+*/

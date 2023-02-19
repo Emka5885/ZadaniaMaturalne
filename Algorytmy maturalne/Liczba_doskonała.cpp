@@ -1,7 +1,7 @@
 /*
 #include <iostream>
 
-bool isPerfect(int num)
+bool isPerfect(long long num)
 {
 	if (num <= 0 || num % 2 != 0)
 	{
@@ -9,8 +9,8 @@ bool isPerfect(int num)
 	}
 	else
 	{
-		int sum = 1;
-		for (int i = 2; i <= sqrt(num); i++)
+		long long sum = 1;
+		for (long long i = 2; i <= sqrt(num); i++)
 		{
 			if (num % i == 0)
 			{
@@ -37,7 +37,7 @@ bool isPerfect(int num)
 
 int main()
 {
-	int num;
+	long long num;
 
 	std::cout << "Number: "; std::cin >> num;
 
