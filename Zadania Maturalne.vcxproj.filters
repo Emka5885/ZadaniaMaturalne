@@ -27,5 +27,8 @@
     <ClCompile Include="Algorytmy maturalne\Wzorce_w_tekscie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Silnia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
