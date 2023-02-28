@@ -33,5 +33,8 @@
     <ClCompile Include="Schemat _Hornera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Anagram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
