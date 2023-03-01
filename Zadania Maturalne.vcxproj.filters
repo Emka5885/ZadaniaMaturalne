@@ -42,5 +42,8 @@
     <ClCompile Include="Rozkład_liczby_na_czynniki_pierwsze.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Liczba_pierwsza.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
