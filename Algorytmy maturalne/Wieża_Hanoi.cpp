@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 
 void hanoi(int num_disks, char source_rod, char auxiliary_rod, char destination_rod)
@@ -20,3 +21,4 @@ int main()
 
 	return 0;
 }
+*/
