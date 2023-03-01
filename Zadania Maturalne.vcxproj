@@ -127,12 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Algorytmy maturalne\Anagram.cpp" />
     <ClCompile Include="Algorytmy maturalne\Liczba_doskonała.cpp" />
     <ClCompile Include="Algorytmy maturalne\NWD_and_NWW.cpp" />
+    <ClCompile Include="Algorytmy maturalne\Schemat _Hornera.cpp" />
+    <ClCompile Include="Algorytmy maturalne\Silnia.cpp" />
+    <ClCompile Include="Algorytmy maturalne\Wieża_Hanoi.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wzorce_w_tekscie.cpp" />
-    <ClCompile Include="Anagram.cpp" />
-    <ClCompile Include="Schemat _Hornera.cpp" />
-    <ClCompile Include="Silnia.cpp" />
     <ClCompile Include="Zadania Maturalne.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

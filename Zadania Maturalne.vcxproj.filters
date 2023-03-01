@@ -27,13 +27,16 @@
     <ClCompile Include="Algorytmy maturalne\Wzorce_w_tekscie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Silnia.cpp">
+    <ClCompile Include="Algorytmy maturalne\Anagram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Schemat _Hornera.cpp">
+    <ClCompile Include="Algorytmy maturalne\Schemat _Hornera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Anagram.cpp">
+    <ClCompile Include="Algorytmy maturalne\Silnia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorytmy maturalne\Wieża_Hanoi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

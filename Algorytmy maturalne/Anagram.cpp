@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 
 bool check(const std::string& a, const std::string& b)
@@ -45,3 +46,4 @@ int main()
 
 	return 0;
 }
+*/
