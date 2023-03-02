@@ -135,6 +135,7 @@
     <ClCompile Include="Algorytmy maturalne\Wieża_Hanoi.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wzorce_w_tekscie.cpp" />
     <ClCompile Include="Liczba_pierwsza.cpp" />
+    <ClCompile Include="Palindrom.cpp" />
     <ClCompile Include="Rozkład_liczby_na_czynniki_pierwsze.cpp" />
     <ClCompile Include="Zadania Maturalne.cpp" />
   </ItemGroup>
