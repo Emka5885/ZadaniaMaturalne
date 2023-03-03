@@ -21,7 +21,7 @@
     <ClCompile Include="Algorytmy maturalne\Liczba_doskonała.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Algorytmy maturalne\NWD_and_NWW.cpp">
+    <ClCompile Include="Algorytmy maturalne\NWD_NWW.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Algorytmy maturalne\Wzorce_w_tekscie.cpp">
@@ -39,13 +39,16 @@
     <ClCompile Include="Algorytmy maturalne\Wieża_Hanoi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Rozkład_liczby_na_czynniki_pierwsze.cpp">
+    <ClCompile Include="Algorytmy maturalne\Liczba_pierwsza.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Liczba_pierwsza.cpp">
+    <ClCompile Include="Algorytmy maturalne\Palindrom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Palindrom.cpp">
+    <ClCompile Include="Algorytmy maturalne\Rozkład_liczby_na_czynniki_pierwsze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorytmy maturalne\Szybkie_potęgowanie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
