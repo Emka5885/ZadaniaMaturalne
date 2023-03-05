@@ -138,6 +138,7 @@
     <ClCompile Include="Algorytmy maturalne\Szybkie_potęgowanie.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wieża_Hanoi.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wzorce_w_tekscie.cpp" />
+    <ClCompile Include="Obracanie_macierzy.cpp" />
     <ClCompile Include="Zadania Maturalne.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -51,5 +51,8 @@
     <ClCompile Include="Algorytmy maturalne\Szybkie_potęgowanie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Obracanie_macierzy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
