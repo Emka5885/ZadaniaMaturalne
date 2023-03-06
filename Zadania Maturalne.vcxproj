@@ -128,18 +128,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Algorytmy maturalne\Anagram.cpp" />
+    <ClCompile Include="Algorytmy maturalne\Ciąg_Fibonacciego.cpp" />
     <ClCompile Include="Algorytmy maturalne\Liczba_doskonała.cpp" />
     <ClCompile Include="Algorytmy maturalne\Liczba_pierwsza.cpp" />
     <ClCompile Include="Algorytmy maturalne\NWD_NWW.cpp" />
+    <ClCompile Include="Algorytmy maturalne\Obracanie_macierzy.cpp" />
     <ClCompile Include="Algorytmy maturalne\Palindrom.cpp" />
     <ClCompile Include="Algorytmy maturalne\Rozkład_liczby_na_czynniki_pierwsze.cpp" />
     <ClCompile Include="Algorytmy maturalne\Schemat _Hornera.cpp" />
     <ClCompile Include="Algorytmy maturalne\Silnia.cpp" />
+    <ClCompile Include="Algorytmy maturalne\Sito_Eratostenesa.cpp" />
     <ClCompile Include="Algorytmy maturalne\Szybkie_potęgowanie.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wieża_Hanoi.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wzorce_w_tekscie.cpp" />
-    <ClCompile Include="Obracanie_macierzy.cpp" />
-    <ClCompile Include="Sito_Eratostenesa.cpp" />
     <ClCompile Include="Zadania Maturalne.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -51,10 +51,13 @@
     <ClCompile Include="Algorytmy maturalne\Szybkie_potęgowanie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Obracanie_macierzy.cpp">
+    <ClCompile Include="Algorytmy maturalne\Obracanie_macierzy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Sito_Eratostenesa.cpp">
+    <ClCompile Include="Algorytmy maturalne\Sito_Eratostenesa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorytmy maturalne\Ciąg_Fibonacciego.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
