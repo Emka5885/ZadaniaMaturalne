@@ -60,5 +60,8 @@
     <ClCompile Include="Algorytmy maturalne\Ciąg_Fibonacciego.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Algorytmy maturalne\Sortowanie_bąbelkowe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
