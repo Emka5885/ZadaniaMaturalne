@@ -139,6 +139,7 @@
     <ClCompile Include="Algorytmy maturalne\Silnia.cpp" />
     <ClCompile Include="Algorytmy maturalne\Sito_Eratostenesa.cpp" />
     <ClCompile Include="Algorytmy maturalne\Sortowanie_bąbelkowe.cpp" />
+    <ClCompile Include="Algorytmy maturalne\Sortowanie_przez_wybieranie.cpp" />
     <ClCompile Include="Algorytmy maturalne\Szybkie_potęgowanie.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wieża_Hanoi.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wzorce_w_tekscie.cpp" />
