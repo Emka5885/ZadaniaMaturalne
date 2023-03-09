@@ -140,6 +140,7 @@
     <ClCompile Include="Algorytmy maturalne\Sito_Eratostenesa.cpp" />
     <ClCompile Include="Algorytmy maturalne\Sortowanie_bąbelkowe.cpp" />
     <ClCompile Include="Algorytmy maturalne\Sortowanie_kubełkowe.cpp" />
+    <ClCompile Include="Algorytmy maturalne\Sortowanie_przez_scalanie.cpp" />
     <ClCompile Include="Algorytmy maturalne\Sortowanie_przez_wybieranie.cpp" />
     <ClCompile Include="Algorytmy maturalne\Szybkie_potęgowanie.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wieża_Hanoi.cpp" />

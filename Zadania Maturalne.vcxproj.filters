@@ -69,5 +69,8 @@
     <ClCompile Include="Algorytmy maturalne\Sortowanie_kubełkowe.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Algorytmy maturalne\Sortowanie_przez_scalanie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
