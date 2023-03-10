@@ -72,5 +72,8 @@
     <ClCompile Include="Algorytmy maturalne\Sortowanie_przez_scalanie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Algorytmy maturalne\Wydanie_reszty_metodą_zachłanną.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
