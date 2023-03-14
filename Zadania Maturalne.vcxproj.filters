@@ -75,5 +75,8 @@
     <ClCompile Include="Algorytmy maturalne\Wydanie_reszty_metodą_zachłanną.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Arkusze maturalne\Stara podstawa\2016\Gra_w_życie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
