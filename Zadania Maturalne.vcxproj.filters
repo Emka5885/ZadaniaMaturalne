@@ -78,5 +78,8 @@
     <ClCompile Include="Arkusze maturalne\Stara podstawa\2016\Gra_w_życie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Szkoła\Zadania z arkuszy maturalnych\2015\Liczby binarne.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

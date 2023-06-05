@@ -147,6 +147,7 @@
     <ClCompile Include="Algorytmy maturalne\Wydanie_reszty_metodą_zachłanną.cpp" />
     <ClCompile Include="Algorytmy maturalne\Wzorce_w_tekscie.cpp" />
     <ClCompile Include="Arkusze maturalne\Stara podstawa\2016\Gra_w_życie.cpp" />
+    <ClCompile Include="Szkoła\Zadania z arkuszy maturalnych\2015\Liczby binarne.cpp" />
     <ClCompile Include="Zadania Maturalne.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
